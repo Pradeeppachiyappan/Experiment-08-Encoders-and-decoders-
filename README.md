@@ -1,4 +1,5 @@
 # Experiment-07- Encoders-and-decoders 
+## DATE :
 ## AIM :
 To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs .
 ## Requirements :
