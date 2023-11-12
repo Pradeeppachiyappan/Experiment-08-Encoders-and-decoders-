@@ -60,11 +60,11 @@ D7 = X Y Z
 ### Figure -04 8 to 3 Decoder implementation 
 
 ## ->Procedure :
-1. Open Quartus II and select new project and choose the file location. 
+1.Open Quartus II and select new project and choose the file location. 
 
-2. Module Declaration. Module should have the file name.
+2.Module Declaration. Module should have the file name.
 
-3. Input-Output Delecaration.
+3.Input-Output Delecaration.
 
 4.Use assign to define the functionality of logic circuits.
 
